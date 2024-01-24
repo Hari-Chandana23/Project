@@ -18,7 +18,7 @@ public class ReverseEachWordTest {
 
     @Test
     public void test3(){
-        Assert.assertEquals(" jonam ram ",reverseWords(" manoj mar "));
+        Assert.assertEquals(" irah ",reverseWords(" hari "));
     }
 
 }

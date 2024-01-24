@@ -6,10 +6,10 @@ public class ConvertToArray {
     public static void main(String[] args) {
         ArrayList<String> al = new ArrayList<>();
 
-        al.add("Sai");
-        al.add("Ram");
-        al.add("manoj");
-        al.add("pusala");
+        al.add("Hari");
+        al.add("Chandana");
+        al.add("Erla");
+
 
         Object[] array =  al.toArray();
 
